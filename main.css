@@ -24,6 +24,7 @@ body {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 3.3em;
   text-transform: uppercase;
+  letter-spacing: 2px;
 }
 .person {
   font-family: 'Italianno', cursive;
