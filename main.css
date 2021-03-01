@@ -47,5 +47,11 @@ footer img{
 }
 a:hover{
   transform: scale(1.5);
-  filter: grayscale(40%);
+  filter: grayscale(40%)
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-3"] {
+    width: 100%;
+  }
 }
