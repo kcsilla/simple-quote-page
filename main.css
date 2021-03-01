@@ -22,11 +22,12 @@ body {
 }
 .quote {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 2.5em;
+  font-size: 3.3em;
+  text-transform: uppercase;
 }
 .person {
-  font-family: 'Crimson Text', serif;
-  font-size: 1.2em;
+  font-family: 'Italianno', cursive;
+  font-size: 2.2em;
   font-style: italic;
 }
 footer{
